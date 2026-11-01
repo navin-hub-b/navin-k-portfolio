@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" rx="14" fill="#06223F"/>
+  <rect x="2" y="2" width="60" height="60" rx="12" fill="none" stroke="#1AA7BF" stroke-width="2" stroke-opacity="0.6"/>
+  <text x="32" y="42" font-family="'IBM Plex Mono', 'SFMono-Regular', Consolas, monospace" font-size="26" font-weight="700" fill="#F8FAFC" text-anchor="middle" letter-spacing="-1">NK</text>
+</svg>

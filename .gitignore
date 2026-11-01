@@ -1,0 +1,3 @@
+# Private files containing third-party contact details and personal PII
+RESUME.pdf
+*.pdf
